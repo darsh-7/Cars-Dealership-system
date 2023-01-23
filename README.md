@@ -4,27 +4,12 @@ some of the analyses for the program and the DB
 
 use case
 
-![plot](./nocar.jpeg)
+<img src="./analyze/usecase.png" alt="use case" title="use case" width="500">
 
-![plot](./analyze/use case.png)
+DB schema
 
-First Actor: Admin
-• Have All Access Panal.
-• Control DataBase.
-• Edit In Program Source Code.
+<img src="./analyze/schema.png" alt="schema" title="schema" width="500">
 
-Second Actor: Supplier
-• Can Login.
-• Can add a new cars.
-• Can Delete Cars.
-• Can Edit Cars.
-• Can Check If Storge Full Or Not.
+DB ER
 
-Third Actor: Seller
-• Can Login.
-• Get Information From Clint.
-• Sell.
-
-skema
-
-activity diagram
+<img src="./analyze/ER.png" alt="use case" title="use case" width="500">
