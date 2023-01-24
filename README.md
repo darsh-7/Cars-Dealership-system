@@ -1,5 +1,8 @@
 # Cars-Dealership-system
 
+- UI:
+<img src="UI.gif" width="600">
+
 thanks to [IslamEssamSamir](https://github.com/IslamEssamSamir) for designing the DB
 
 - we used Microsoft SQL Server as local DB to add the DB to your device follow this [page](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16) to restore the (DB backup.bak) file [^1].
