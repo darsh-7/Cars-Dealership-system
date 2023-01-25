@@ -7,8 +7,10 @@ thanks to [IslamEssamSamir](https://github.com/IslamEssamSamir) for designing th
 
 - we used Microsoft SQL Server as local DB to add the DB to your device follow this [page](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16) to restore the (DB backup.bak) file [^1].
 
+- if you don't like the full-screen window in the program you can change it back to a resizable window and the app already flexible with this option
 
-<br>Some of the analyses for the program and the DB:
+
+#### Some of the analyses for the program and the DB:
 
 
 <br>use case
